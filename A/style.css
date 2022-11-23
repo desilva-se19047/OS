@@ -1,0 +1,121 @@
+body{
+    font-size: medium;
+}
+frameset{
+    border: 2px;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.top_frame{
+    width: 100vw;
+    height: 40vh;
+}
+.bottom_frame{
+    width: 100vw;
+    height: 60vh;
+    background-color: aqua;
+}
+.left_frame{
+    width:25vw ;
+    height:100%;
+    background-color: rgb(243, 183, 223);
+}
+.navi{
+    align-items: center;
+    background-color: brown;
+    font-size: larger;
+    width: 90%;
+    padding:4%;
+    margin:1% ;
+    align-items:center ;
+    
+    
+}
+.right_frame{
+    width: 75vw;
+    height: 55vh;
+    background-color: antiquewhite;
+    border-right-width: 1%;
+
+}
+.footer-frame{
+    width: 75vw;
+    height: 5vh;
+    background-color: bisque;
+    text-align: center;
+}
+.item_frame{
+    width:15%;
+    height: 25hw;
+    margin: 1.5vw;
+    float: left;
+
+}
+.item_frame2{
+    width:20%;
+    height: 25hw;
+    margin: 1vw;
+    float: left;
+}
+div {
+    float: left;
+}
+img{
+    width:100% ;
+    height:100%;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+}
+a{
+    color: antiquewhite;
+    text-decoration: none;
+
+}
+h2{
+    color: brown;
+    font-family: oblique;
+    font-style: italic;
+    font-size: 30;
+
+
+}
+.home_para{
+
+    font-family: sans-serif;
+    font-style: italic;
+    background-color: beige;
+    letter-spacing: 5px;
+    font-size: 15px;
+    padding: 30px;
+    
+}
+.bbox{
+    background-color: rgb(240, 202, 228);
+    height: 40vh;
+}
+.contact1{
+    width: 23%;
+    height: 45vh;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.box{
+    width: 70vw;
+    height: 25vh;
+    border: 2px solid black;
+}
+.vac_l{
+    width: 10vw;
+} 
+fieldset{
+    margin-left: 2px;
+    padding-left: 2px;
+}
+.vacan{
+    height: fit-content;
+}
